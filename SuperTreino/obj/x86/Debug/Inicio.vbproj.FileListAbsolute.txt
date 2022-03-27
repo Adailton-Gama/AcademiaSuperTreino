@@ -1,0 +1,9 @@
+C:\Users\Shirlei\AppData\Local\Temporary Projects\Inicio\bin\Debug\Inicio.exe
+C:\Users\Shirlei\AppData\Local\Temporary Projects\Inicio\bin\Debug\Inicio.pdb
+C:\Users\Shirlei\AppData\Local\Temporary Projects\Inicio\bin\Debug\Inicio.xml
+C:\Users\Shirlei\AppData\Local\Temporary Projects\Inicio\obj\x86\Debug\Inicio.Inicio.resources
+C:\Users\Shirlei\AppData\Local\Temporary Projects\Inicio\obj\x86\Debug\Inicio.Resources.resources
+C:\Users\Shirlei\AppData\Local\Temporary Projects\Inicio\obj\x86\Debug\Inicio.vbproj.GenerateResource.Cache
+C:\Users\Shirlei\AppData\Local\Temporary Projects\Inicio\obj\x86\Debug\Inicio.exe
+C:\Users\Shirlei\AppData\Local\Temporary Projects\Inicio\obj\x86\Debug\Inicio.xml
+C:\Users\Shirlei\AppData\Local\Temporary Projects\Inicio\obj\x86\Debug\Inicio.pdb

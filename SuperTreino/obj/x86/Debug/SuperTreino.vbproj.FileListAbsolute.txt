@@ -1,0 +1,111 @@
+C:\Users\Shirlei\documents\visual studio 2010\Projects\SuperTreino\SuperTreino\bin\Debug\SuperTreino.exe
+C:\Users\Shirlei\documents\visual studio 2010\Projects\SuperTreino\SuperTreino\bin\Debug\SuperTreino.pdb
+C:\Users\Shirlei\documents\visual studio 2010\Projects\SuperTreino\SuperTreino\bin\Debug\SuperTreino.xml
+C:\Users\Shirlei\documents\visual studio 2010\Projects\SuperTreino\SuperTreino\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\Shirlei\documents\visual studio 2010\Projects\SuperTreino\SuperTreino\obj\x86\Debug\Inicio.Inicio.resources
+C:\Users\Shirlei\documents\visual studio 2010\Projects\SuperTreino\SuperTreino\obj\x86\Debug\Inicio.Resources.resources
+C:\Users\Shirlei\documents\visual studio 2010\Projects\SuperTreino\SuperTreino\obj\x86\Debug\SuperTreino.vbproj.GenerateResource.Cache
+C:\Users\Shirlei\documents\visual studio 2010\Projects\SuperTreino\SuperTreino\obj\x86\Debug\SuperTreino.exe
+C:\Users\Shirlei\documents\visual studio 2010\Projects\SuperTreino\SuperTreino\obj\x86\Debug\SuperTreino.xml
+C:\Users\Shirlei\documents\visual studio 2010\Projects\SuperTreino\SuperTreino\obj\x86\Debug\SuperTreino.pdb
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Super Treino.exe.config
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Super Treino.exe.manifest
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Super Treino.application
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Super Treino.exe
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Super Treino.pdb
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Super Treino.xml
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\BouncyCastle.Crypto.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\FireSharp.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\itextsharp.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Newtonsoft.Json.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\System.Net.Http.Extensions.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\System.Net.Http.Primitives.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\EnvDTE.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\stdole.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.MSXML.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\itextsharp.xml
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\Newtonsoft.Json.xml
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\System.Net.Http.Extensions.xml
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\System.Net.Http.Primitives.xml
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\SuperTreino.vbproj.App.config
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\SuperTreino.vbprojAssemblyReference.cache
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Inicio.CadAluno.resources
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Inicio.CadNewUser.resources
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Inicio.CONTAS.resources
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Inicio.DIARIAS.resources
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Inicio.F_Menu.resources
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Inicio.Inicio.resources
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Inicio.MATRICULAS.resources
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Inicio.Resources.resources
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Inicio.Relatorio.resources
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Inicio.RelPag.resources
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\SuperTreino.vbproj.GenerateResource.cache
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\SuperTreino.vbproj.CoreCompileInputs.cache
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Super Treino.exe.manifest
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Super Treino.application
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\SuperTreino.vbproj.CopyComplete
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Super Treino.exe
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Super Treino.xml
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Super Treino.pdb
+D:\SUPERTREINO\SuperTreino\SuperTreino\obj\x86\Debug\Inicio.RelGeral.resources
